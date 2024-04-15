@@ -3,7 +3,7 @@ import './App.css';
 import HelloWorld from './HelloWorld';
 import Counter from './Counter';
 
-import './App.css'; import FilteredList from './FilteredList';  
+import FilteredList from './FilteredList';  
 
 //TODO (FilteredList): create a produce list using the 'const' variable keyword
 const produce = [    
